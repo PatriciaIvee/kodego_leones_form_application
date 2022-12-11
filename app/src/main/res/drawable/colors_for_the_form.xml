@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item>
+<!--            color palette-->
+            <solid android:color = "#2D2A32"/>
+            <solid android:color="#DDDA2C"/>
+            <solid android:color="#EAE151"/>
+            <solid android:color="#EEEFA8"/>
+            <solid android:color="#FAFDF6"/>
+        </item>
+</selector>
